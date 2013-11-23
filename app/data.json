@@ -1,0 +1,53 @@
+[{
+	"name":"Categories",
+	"type":"list",
+	"childs":[{
+		"name":"Sub-Categories1",
+		"type": "list",
+		"childs": [{
+			"name": "Manchester United",
+			"type": "item",
+			"content": "Champions"
+			},{
+			"name": "Arsenal",
+			"type": "item",
+			"content": "Table Toppers"
+			},{
+			"name": "Manchester City",
+			"type": "item",
+			"content": "Best Individuals"
+		}]
+	},{
+		"name":"Sub-Categories2",
+		"type": "list",
+		"childs": [{
+			"name": "Manchester United",
+			"type": "item",
+			"content": "Champions"
+			},{
+			"name": "Arsenal",
+			"type": "item",
+			"content": "Table Toppers"
+			},{
+			"name": "Manchester City",
+			"type": "item",
+			"content": "Best Individuals"
+		}]
+	},{
+		"name":"Sub-Categories3",
+		"type": "list",
+		"childs": [{
+			"name": "Manchester United",
+			"type": "item",
+			"content": "Champions"
+			},{
+			"name": "Arsenal",
+			"type": "item",
+			"content": "Table Toppers"
+			},{
+			"name": "Manchester City",
+			"type": "item",
+			"content": "Best Individuals"
+		}]
+	}]
+}]
